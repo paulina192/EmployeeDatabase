@@ -5,7 +5,7 @@ Database of employees created in MySQL. The database consists of a table with ra
  Consists of a mysqldump sql file of the database's structure and data, including tables and views.
 
 # employeedb folder
- Consists of idb files of all four tables from the database.
+ Consists of idb files of all four tables from the database and the queries. 
 
  This database is connected to the EmployeeApp Java Application. The data in this database can be viewed and modified through that application. 
 
